@@ -1,0 +1,4 @@
+# record_version_control extension
+comment = ''
+default_version = '1.0'
+module_pathname = '$libdir/record_version_control'
